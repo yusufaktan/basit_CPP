@@ -1,4 +1,4 @@
-![cpp](https://www.natapuntes.es/wp-content/uploads/2019/01/c-logo-600x150.png)
+![cpp](https://miro.medium.com/max/2476/1*mDKusLBkGKBWW4aycK4PCA.png)
 # basit_CPP
 # isu - Derslerde ve ödevlerde yaptığım basit programlar.
 
